@@ -4,6 +4,7 @@ Spread of Corona Virus and prevailing "social distancing" efforts have made ever
 This simulation allows you to find answer theses questions.
 
 # Notes
+
 - [Scientists cannot easily cultivate human coronaviruses in the laboratory unlike the rhinovirus, which is another cause of the common cold](https://www.medicalnewstoday.com/articles/256521#symptoms)
 
 - [the period of time between exposure to an infection and when symptoms begin](https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center#Terms)
@@ -15,3 +16,6 @@ This simulation allows you to find answer theses questions.
 
 - [80% of people infected with the virus do not develop severe disease](https://www.statnews.com/2020/03/09/people-shed-high-levels-of-coronavirus-study-finds-but-most-are-likely-not-infectious-after-recovery-begins/)
 
+- [anyone with symptoms should stay at home for at least 7 days. If you live with other people, they should stay at home for at least 14 days, to avoid spreading the infection outside the home.](https://www.theguardian.com/world/2020/mar/21/coronavirus-symptoms-how-spread-should-i-see-doctor)
+
+- [Newly Infected vs. Newly Recovered](https://www.worldometers.info/coronavirus/coronavirus-cases/#newly-infected-newly-recovered)
