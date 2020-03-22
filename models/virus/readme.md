@@ -4,8 +4,10 @@ Spread of Corona Virus and prevailing "social distancing" efforts have made ever
 This simulation allows you to find answer theses questions.
 
 # Notes
-
 - [Scientists cannot easily cultivate human coronaviruses in the laboratory unlike the rhinovirus, which is another cause of the common cold](https://www.medicalnewstoday.com/articles/256521#symptoms)
+
+- [the period of time between exposure to an infection and when symptoms begin](https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center#Terms)
+
 - [median incubation period for COVID-19 of approximately 5 days](https://annals.org/aim/fullarticle/2762808/incubation-period-coronavirus-disease-2019-covid-19-from-publicly-reported)
 [early and potentially highly efficient transmission of the virus occurs before clinical symptoms or in conjunction with the very first mild symptoms.](https://www.statnews.com/2020/03/09/people-shed-high-levels-of-coronavirus-study-finds-but-most-are-likely-not-infectious-after-recovery-begins/)
 
