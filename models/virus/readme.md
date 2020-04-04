@@ -9,7 +9,8 @@ Spread of Corona Virus and prevailing "social distancing" efforts have made ever
   - Mobility-restriction
   - Mobility-restriction (Curfew)
   - Test, Detect, Trace
-  
+  - Episodic/Intermittent Policies 
+  - 
 This simulation allows you to find answer theses questions.
 
 # Notes
