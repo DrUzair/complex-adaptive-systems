@@ -1,6 +1,9 @@
 Spread of Corona Virus and prevailing "social distancing" efforts have made everybody think. 
 - How long is going to last ?
 - What if it comes back again ?
+- Herd immunity at what cost ?
+- When will the recovery start ?
+- On a given day of virus spread, How many asymptomatic patients are out there ?
 This simulation allows you to find answer theses questions.
 
 # Notes
