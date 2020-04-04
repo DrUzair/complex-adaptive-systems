@@ -2,7 +2,7 @@ Spread of Corona Virus and prevailing "social distancing" efforts have made ever
 - How long is going to last ?
 - What if it comes back again ?
 - Herd immunity at what cost ?
-- When will the recovery start ?
+- When will the recovery start ?. Shall the recoveries will be as exponetially increasing as were the infections ?
 - On a given day of virus spread, How many asymptomatic patients are out there ?
 - Effectiveness of 
   - Social distancing
