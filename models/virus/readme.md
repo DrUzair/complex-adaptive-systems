@@ -4,6 +4,12 @@ Spread of Corona Virus and prevailing "social distancing" efforts have made ever
 - Herd immunity at what cost ?
 - When will the recovery start ?
 - On a given day of virus spread, How many asymptomatic patients are out there ?
+- Effectiveness of 
+  - Social distancing
+  - Mobility-restriction
+  - Mobility-restriction (Curfew)
+  - Test, Detect, Trace
+  
 This simulation allows you to find answer theses questions.
 
 # Notes
@@ -22,3 +28,5 @@ This simulation allows you to find answer theses questions.
 - [anyone with symptoms should stay at home for at least 7 days. If you live with other people, they should stay at home for at least 14 days, to avoid spreading the infection outside the home.](https://www.theguardian.com/world/2020/mar/21/coronavirus-symptoms-how-spread-should-i-see-doctor)
 
 - [Newly Infected vs. Newly Recovered](https://www.worldometers.info/coronavirus/coronavirus-cases/#newly-infected-newly-recovered)
+
+- [WHO Report on China](#https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
